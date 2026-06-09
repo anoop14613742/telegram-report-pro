@@ -5,6 +5,10 @@ Abuse-report workflow software for trust, safety, and moderation teams documenti
 [![Latest Release](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/anoop14613742/telegram-report-pro/releases)
 [![License](https://img.shields.io/badge/License-Commercial-red)](./LICENSE)
 
+## Preview
+
+![Telegram Report PRO case review preview](./assets/preview.svg)
+
 ## Features
 
 - Case-based reporting workflow for verified abuse, scams, and harmful content
