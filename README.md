@@ -7,7 +7,7 @@ Abuse-report workflow software for trust, safety, and moderation teams documenti
 
 ## Preview
 
-![Telegram Report PRO case review preview](./assets/preview.svg)
+![Telegram Report PRO software screenshot](./assets/telegram-report-pro.png)
 
 ## Features
 
